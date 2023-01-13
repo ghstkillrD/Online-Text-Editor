@@ -2,7 +2,7 @@
 
 This is a Online Text Editor build using HTML, CSS, and JavaScript for the Assignment 1 in Web Programming module in Y1S2(2022) at University of Kelaniya.
 
-This Text Editor capable of writing bold, italic and uderlined texts, coloring texts, text allignment, and undo and redo. 
+This Text Editor is capable of writing bold, italic and uderlined texts, coloring texts using a RGB pallette, text allignment to center, right and left, and undo and redo functions. 
 
 # User Interface
 
