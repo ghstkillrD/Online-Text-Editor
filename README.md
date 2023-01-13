@@ -1,6 +1,8 @@
 # Online-Text-Editor
 
-This is a Online Text Editor build using HTML, CSS, and JavaScript for the Assignment 1 in Web Programming module in Y1S2 at University of Kelaniya(2022).
+This is a Online Text Editor build using HTML, CSS, and JavaScript for the Assignment 1 in Web Programming module in Y1S2(2022) at University of Kelaniya.
+
+This Text Editor capable of writing bold, italic and uderlined texts, coloring texts, text allignment, and undo and redo. 
 
 # User Interface
 
